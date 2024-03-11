@@ -12,13 +12,14 @@ This Project is done by using React Framework. It is fully functional, responsiv
 
 ### Installation
 1. For cloning repository to local machine
-   git clone 
+#####   git clone https://github.com/shubhishivhare/ERP-Project.git
 2. Navigate into the project directory
-   cd projectname
+#####   cd projectname
 3. Installing dependencies
-   npm install
+#####   npm install
 4. To run or start the development server
-   npm start
+#####   npm start
+
 ### Screenshots
 
 #### Dashboard:
